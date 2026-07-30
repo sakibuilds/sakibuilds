@@ -1,0 +1,433 @@
+{
+  "builds": [
+    {
+      "id": 1,
+      "name": "followup-tracker",
+      "category": "dashboard",
+      "function_keywords": [
+        "CRUD",
+        "sortable table",
+        "database records",
+        "done/dismiss/re-open"
+      ],
+      "deployed_url": "https://followup-tracker-self.vercel.app",
+      "date": "2026-07-05",
+      "what_it_does": "Displays follow-up records from a database in a sortable table with action buttons. User reviews and marks items done/dismiss.",
+      "status": "rejected"
+    },
+    {
+      "id": 2,
+      "name": "article-pipeline",
+      "category": "dashboard",
+      "function_keywords": [
+        "CRUD",
+        "sortable table",
+        "database records",
+        "Kanban",
+        "editorial pipeline"
+      ],
+      "deployed_url": "https://article-pipeline-ten.vercel.app",
+      "date": "2026-07-06",
+      "what_it_does": "Editorial Kanban board for tracking article stages. Same CRUD-table pattern as followup-tracker.",
+      "status": "rejected"
+    },
+    {
+      "id": 3,
+      "name": "workshop-certificates",
+      "category": "utility",
+      "function_keywords": [
+        "document generator",
+        "print-ready",
+        "certificate",
+        "attendee manager",
+        "one-shot"
+      ],
+      "deployed_url": "https://workshop-certificates-beta.vercel.app",
+      "repo": "https://github.com/sakibuilds/workshop-certificates",
+      "date": "2026-07-07",
+      "what_it_does": "Generates print-ready workshop completion certificates. Add attendees, set workshop details, print/PDF. localStorage persistence. No backend."
+    },
+    {
+      "id": 4,
+      "name": "sponsor-desk",
+      "category": "dashboard",
+      "function_keywords": [
+        "CRUD",
+        "sortable table",
+        "database records",
+        "deal tracking",
+        "sponsorship"
+      ],
+      "deployed_url": "https://sponsor-desk-iota.vercel.app",
+      "repo": "https://github.com/sakibuilds/sponsor-desk",
+      "date": "2026-07-08",
+      "what_it_does": "Sponsorship deal tracker with sortable/searchable table of deals, values, expiry dates. Same CRUD-table pattern."
+    },
+    {
+      "id": 5,
+      "name": "kid-reads",
+      "category": "family",
+      "function_keywords": [
+        "child activity",
+        "reading log",
+        "gamification",
+        "star ratings",
+        "streaks",
+        "confetti"
+      ],
+      "deployed_url": "https://kid-reads.vercel.app",
+      "repo": "https://github.com/sakibuilds/kid-reads",
+      "date": "2026-07-08",
+      "what_it_does": "Kid-friendly reading log with emoji book covers, star ratings, reading streaks, celebration confetti. Parent PIN gate. Gamified activity tracker for children."
+    },
+    {
+      "id": 6,
+      "name": "commitment-desk",
+      "category": "dashboard",
+      "function_keywords": [
+        "CRUD",
+        "sortable table",
+        "database records",
+        "commitments",
+        "follow-up"
+      ],
+      "deployed_url": "https://commitment-desk.vercel.app",
+      "date": "2026-07-09",
+      "what_it_does": "Dashboard of open commitments from hermes.db. Same CRUD-table pattern.",
+      "status": "rejected"
+    },
+    {
+      "id": 7,
+      "name": "health-trend",
+      "category": "health",
+      "function_keywords": [
+        "data visualization",
+        "charts",
+        "sleep",
+        "HRV",
+        "steps",
+        "health metrics",
+        "trend lines"
+      ],
+      "deployed_url": "https://health-trend.vercel.app",
+      "date": "2026-07-12",
+      "what_it_does": "Health metric visualization — line charts for sleep duration, deep/REM/light sleep %, HRV trends, step counts. PIN-protected. Reads from static JSON data."
+    },
+    {
+      "id": 8,
+      "name": "speaker-prep",
+      "category": "personal-productivity",
+      "function_keywords": [
+        "countdown",
+        "speaking prep",
+        "checklist",
+        "event readiness",
+        "prep tracker"
+      ],
+      "deployed_url": "https://speaker-prep-blush.vercel.app",
+      "repo": "https://github.com/sakibuilds/speaker-prep",
+      "date": "2026-07-12",
+      "what_it_does": "Shows upcoming speaking engagements with live countdown timers. Expand each event to see and check off prep items (slides, travel, talking points). LocalStorage persistence. No backend."
+    },
+    {
+      "id": 9,
+      "name": "pair-picker",
+      "category": "workshop-tool",
+      "function_keywords": [
+        "pair generator",
+        "random assignment",
+        "workshop tool",
+        "group randomizer"
+      ],
+      "deployed_url": "https://pair-picker.vercel.app",
+      "repo": "https://github.com/sakibuilds/pair-picker",
+      "date": "2026-07-13",
+      "what_it_does": "Takes a list of attendee names and randomly assigns them to pairs, trios, or quads. Animated card reveal with confetti celebration. PIN-protected. No backend."
+    },
+    {
+      "id": 10,
+      "name": "letter-explorer",
+      "category": "family",
+      "function_keywords": [
+        "letter learning",
+        "alphabet explorer",
+        "phonics",
+        "child education",
+        "interactive reading"
+      ],
+      "deployed_url": "https://letter-explorer.vercel.app",
+      "repo": "https://github.com/sakibuilds/letter-explorer",
+      "date": "2026-07-14",
+      "what_it_does": "Interactive alphabet explorer for kids — shows each letter with emoji picture associations, speaks letter sounds and word names via browser speech synthesis, tracks visited letters with progress bar and visual indicators. Warm gradient backgrounds, large touch targets, keyboard and tap navigation. localStorage persistence. No backend."
+    },
+    {
+      "id": 11,
+      "name": "workshop-timer",
+      "category": "workshop-tool",
+      "function_keywords": [
+        "countdown timer",
+        "workshop tool",
+        "coding session",
+        "fullscreen display",
+        "milestone alerts"
+      ],
+      "deployed_url": "https://workshop-timer-olive.vercel.app",
+      "repo": "https://github.com/sakibuilds/workshop-timer",
+      "date": "2026-07-16",
+      "what_it_does": "Full-screen countdown timer designed for vibe coding workshops. Big projector-friendly display, preset durations (15-90 min), milestone visual alerts at 50%/25%/5min/1min, audio beep via Web Audio API, keyboard shortcuts (Space/R/F), +5 min quick extension. No backend, no data entry, no CRUD."
+    },
+    {
+      "id": 12,
+      "name": "ratio",
+      "category": "utility",
+      "function_keywords": [
+        "aspect ratio calculator",
+        "visual preview",
+        "content creator tool",
+        "social media presets",
+        "dimension converter"
+      ],
+      "deployed_url": "https://ratio-five.vercel.app",
+      "repo": "https://github.com/sakibuilds/ratio",
+      "date": "2026-07-16",
+      "what_it_does": "Aspect ratio calculator for content creators. Enter W×H dimensions, see reduced ratio, decimal, megapixels. Platform-specific presets (Instagram, YouTube, Twitter, LinkedIn, TikTok), standard ratios (16:9, 4:3, 21:9, 3:2), ratio lock, visual proportion preview, copy to clipboard. Pure client-side, no backend, no CRUD."
+    },
+    {
+      "id": 13,
+      "name": "decision-spinner",
+      "category": "fun-utility",
+      "function_keywords": [
+        "interactive spinner",
+        "wheel of fortune",
+        "random picker",
+        "decision tool",
+        "confetti celebration"
+      ],
+      "deployed_url": "https://decision-spinner-theta.vercel.app",
+      "repo": "https://github.com/sakibuilds/decision-spinner",
+      "date": "2026-07-17",
+      "what_it_does": "Wheel of fortune decision maker. Enter comma-separated options, spin the animated conic-gradient wheel, and get a random selection with confetti celebration. Full-screen winner modal, adjustable options, minimum 2 required. Pure client-side, no backend, no CRUD, no dashboard."
+    },
+    {
+      "id": 14,
+      "name": "emoji-math",
+      "category": "family",
+      "function_keywords": [
+        "emoji math",
+        "visual arithmetic",
+        "math practice game",
+        "count emojis",
+        "score milestones"
+      ],
+      "deployed_url": "https://emoji-math-ecru.vercel.app",
+      "repo": "https://github.com/sakibuilds/emoji-math",
+      "date": "2026-07-18",
+      "what_it_does": "Emoji math practice game for kids — visual arithmetic problems shown with emoji counts, four tappable answer choices, immediate correct/wrong feedback, streak tracking with confetti bursts at 3/5/7/10 streaks, result celebration screen with accuracy stats and best streaks. Pure client-side, no backend, no CRUD, no dashboard."
+    },
+    {
+      "id": 15,
+      "name": "workshop-spark",
+      "category": "workshop-tool",
+      "function_keywords": [
+        "idea generator",
+        "workshop prompt",
+        "random app idea",
+        "creativity trigger",
+        "vibe coding"
+      ],
+      "deployed_url": "https://workshop-spark.vercel.app",
+      "repo": "https://github.com/sakibuilds/workshop-spark",
+      "date": "2026-07-19",
+      "what_it_does": "Random app idea generator for vibe coding workshops. Displays one absurd, buildable app prompt at a time from 50 curated ideas. Fade transition between prompts, keyboard shortcuts (Space/N for next), dark projector-optimized theme, full-screen. Pure client-side, no backend, no CRUD, no dashboard."
+    },
+    {
+      "id": 16,
+      "name": "invoice-flow",
+      "category": "utility",
+      "function_keywords": [
+        "invoice generator",
+        "print-ready",
+        "line items",
+        "tax calculation",
+        "proforma"
+      ],
+      "deployed_url": "https://invoice-flow-phi-rosy.vercel.app",
+      "repo": "https://github.com/sakibuilds/invoice-flow",
+      "date": "2026-07-20",
+      "what_it_does": "Printable invoice generator — enter client details, line items with quantity/rate, tax percentage, and notes. Live preview panel updates in real time. Print/PDF via browser print. Auto-incrementing invoice numbers. Pure client-side, no backend, no CRUD."
+    },
+    {
+      "id": 17,
+      "name": "meet-cost",
+      "category": "personal-productivity",
+      "function_keywords": [
+        "meeting cost calculator",
+        "hourly rate",
+        "meeting duration",
+        "cost breakdown",
+        "productivity tool"
+      ],
+      "deployed_url": "https://meet-cost-inky.vercel.app",
+      "repo": "https://github.com/sakibuilds/meet-cost",
+      "date": "2026-07-21",
+      "what_it_does": "Real-time meeting cost calculator — enter hourly rate, attendees, and duration to see the total cost. Gradient severity indicator (frugal/standard/premium), comparison grid showing what else that money could buy, one-tap presets for common meeting types (standup, brainstorm, review, workshop, offsite), copy-to-clipboard summary. Pure client-side, no backend, no CRUD, no dashboard."
+    },
+    {
+      "id": 18,
+      "name": "text-stats",
+      "category": "personal-productivity",
+      "function_keywords": [
+        "word count",
+        "reading time",
+        "speaking time",
+        "readability score",
+        "headline checker",
+        "writing analytics"
+      ],
+      "deployed_url": "https://text-stats-one.vercel.app",
+      "repo": "https://github.com/sakibuilds/text-stats",
+      "date": "2026-07-22",
+      "what_it_does": "Real-time writing analytics tool. Type or paste text, see word count, char count, sentences, paragraphs, estimated reading time (238 WPM), speaking time with adjustable WPM slider (100-200), longest word, average word length, Flesch Reading Ease readability score, and headline character counter with SEO length feedback bar. Pure client-side, no backend, no CRUD, no dashboard."
+    },
+    {
+      "id": 19,
+      "name": "breath-space",
+      "category": "health",
+      "function_keywords": [
+        "breathing exercise",
+        "guided breathing",
+        "animation",
+        "stress relief",
+        "health tool"
+      ],
+      "deployed_url": "https://breath-space-phi.vercel.app",
+      "repo": "https://github.com/sakibuilds/breath-space",
+      "date": "2026-07-23",
+      "what_it_does": "Minimal guided breathing exercise tool — select a pattern (Box, 4-7-8, Tactical, Simple), watch an animated gradient circle expand and contract in sync with your breath, follow phase labels (Breathe In / Hold / Breathe Out), and track session time and breath count. Dark calm theme, no backend, no CRUD, no dashboard."
+    },
+    {
+      "id": 20,
+      "name": "bio-formats",
+      "category": "utility",
+      "function_keywords": [
+        "bio formatter",
+        "speaker bio",
+        "template generator",
+        "one-shot",
+        "social profiles"
+      ],
+      "deployed_url": "https://bio-formats.vercel.app",
+      "repo": "https://github.com/sakibuilds/bio-formats",
+      "date": "2026-07-24",
+      "what_it_does": "Speaker bio format generator. Enter your name, title, company, topics, social links, and achievements, then see 5 formatted bio versions (one-liner, social bio, 30-second intro, conference program bio, full speaker bio). Copy any with one click. Pure client-side, no backend, no CRUD."
+    },
+    {
+      "id": 21,
+      "name": "time-buddy",
+      "category": "utility",
+      "function_keywords": [
+        "timezone converter",
+        "world clock",
+        "meeting planner",
+        "time zone coordination",
+        "business hours overlay"
+      ],
+      "deployed_url": "https://time-buddy-seven.vercel.app",
+      "repo": "https://github.com/sakibuilds/time-buddy",
+      "date": "2026-07-25",
+      "what_it_does": "Timezone coordination tool for media/journalist use. Live world clocks across 10 timezones (IST, ET, PT, BST, CET, SGT, CST, JST, GST, AEST) with business hour indicators. Interactive 24-hour grid to find overlapping business hours. Click any hour in IST row to see equivalent times across all zones. Pure client-side, no backend, no CRUD."
+    },
+    {
+      "id": 22,
+      "name": "name-tents",
+      "category": "event-tool",
+      "function_keywords": [
+        "name tent generator",
+        "folded placard",
+        "seat card",
+        "pronunciation guide",
+        "duplex print"
+      ],
+      "deployed_url": "https://name-tents.vercel.app",
+      "repo": "https://github.com/sakibuilds/name-tents",
+      "date": "2026-07-26",
+      "what_it_does": "Creates folded desk cards for panels, workshops, and roundtables with front-and-back layouts, pronunciation hints, short notes, and print-ready fold guides."
+    },
+    {
+      "id": 23,
+      "name": "stage-cards",
+      "category": "personal-productivity",
+      "function_keywords": [
+        "emcee intro",
+        "stage cue cards",
+        "pronunciation notes",
+        "host script",
+        "fullscreen prompt"
+      ],
+      "deployed_url": "https://stage-cards.vercel.app",
+      "repo": "https://github.com/sakibuilds/stage-cards",
+      "date": "2026-07-27",
+      "what_it_does": "Generates a polished emcee card for panels, workshops, and talks with a host intro, pronunciation note, quiet cues, speaking-time estimate, copy actions, and a fullscreen stage view."
+    },
+    {
+      "id": 24,
+      "name": "run-sheet-nine",
+      "category": "event-tool",
+      "function_keywords": [
+        "run sheet",
+        "segment planner",
+        "buffer calculator",
+        "event rundown",
+        "speaker transitions"
+      ],
+      "deployed_url": "https://run-sheet-nine.vercel.app",
+      "repo": "https://github.com/sakibuilds/run-sheet-nine",
+      "date": "2026-07-28",
+      "what_it_does": "Builds a minute-by-minute run sheet for workshops, panels, and live sessions with segment timing, cue lines, buffer pressure, and print/copy actions."
+    },
+    {
+      "id": 25,
+      "name": "backplan-studio",
+      "category": "operations",
+      "function_keywords": [
+        "backward planner",
+        "deadline buffer",
+        "reverse schedule",
+        "prep windows",
+        "launch readiness"
+      ],
+      "deployed_url": "https://backplan-studio.vercel.app",
+      "repo": "https://github.com/sakibuilds/backplan-studio",
+      "date": "2026-07-29",
+      "what_it_does": "Reverse-plans fixed-date work from the deadline backward, generating phased start dates, built-in safety days, weekend-aware scheduling, and a copyable execution checklist."
+    },
+    {
+      "id": 26,
+      "name": "scan-sheet-five",
+      "category": "event-tool",
+      "function_keywords": [
+        "qr handout",
+        "wifi access card",
+        "resource sheet",
+        "feedback scan",
+        "session links"
+      ],
+      "deployed_url": "https://scan-sheet-five.vercel.app",
+      "repo": "https://github.com/sakibuilds/scan-sheet-five",
+      "date": "2026-07-30",
+      "what_it_does": "Generates a single printable sheet of QR codes for live events so attendees can scan Wi-Fi, session, slides, and feedback links from one place."
+    }
+  ],
+  "forbidden_categories": [
+    "dashboard"
+  ],
+  "forbidden_function_keywords": [
+    "CRUD",
+    "sortable table",
+    "database records",
+    "done/dismiss",
+    "Kanban",
+    "pipeline"
+  ],
+  "generated_at": "2026-07-30T09:10:48.023Z"
+}
