@@ -432,6 +432,22 @@
       "repo": "https://github.com/sakibuilds/nudge-ladder",
       "date": "2026-07-31",
       "what_it_does": "Plans a weekend-aware follow-up ladder for unanswered business threads, choosing a cadence and turning it into dated nudge steps you can copy and use."
+    },
+    {
+      "id": 28,
+      "name": "pace-notes",
+      "category": "personal-productivity",
+      "function_keywords": [
+        "speech pacing",
+        "rehearsal cards",
+        "pause markers",
+        "stage mode",
+        "teleprompter practice"
+      ],
+      "deployed_url": "https://pace-notes.vercel.app",
+      "repo": "https://github.com/sakibuilds/pace-notes",
+      "date": "2026-08-01",
+      "what_it_does": "Turns a draft talk script into pace-matched rehearsal cards, adds visible pause markers, and provides a large stage mode for practice."
     }
   ],
   "forbidden_categories": [
@@ -445,5 +461,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-07-30T21:37:44.446Z"
+  "generated_at": "2026-07-31T21:37:05.495Z"
 }
