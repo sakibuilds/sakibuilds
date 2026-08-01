@@ -448,6 +448,22 @@
       "repo": "https://github.com/sakibuilds/pace-notes",
       "date": "2026-08-01",
       "what_it_does": "Turns a draft talk script into pace-matched rehearsal cards, adds visible pause markers, and provides a large stage mode for practice."
+    },
+    {
+      "id": 29,
+      "name": "rename-ready",
+      "category": "utility",
+      "function_keywords": [
+        "filename cleaner",
+        "batch rename",
+        "attachment prep",
+        "naming pattern",
+        "extension preserve"
+      ],
+      "deployed_url": "https://rename-ready.vercel.app",
+      "repo": "https://github.com/sakibuilds/rename-ready",
+      "date": "2026-08-02",
+      "what_it_does": "Cleans up messy filenames into a consistent batch with optional date stamps, prefixes, numbering, duplicate handling, and preserved file extensions."
     }
   ],
   "forbidden_categories": [
@@ -461,5 +477,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-07-31T21:37:05.495Z"
+  "generated_at": "2026-08-01T21:36:03.478Z"
 }
