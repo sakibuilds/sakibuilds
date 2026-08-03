@@ -480,6 +480,22 @@
       "repo": "https://github.com/sakibuilds/question-budget",
       "date": "2026-08-03",
       "what_it_does": "Turns a panel question list into a realistic moderator run, separating must-cover questions from reserve ones and budgeting answer time per panelist."
+    },
+    {
+      "id": 31,
+      "name": "breakout-brief",
+      "category": "workshop-tool",
+      "function_keywords": [
+        "breakout exercise card",
+        "facilitation prompt",
+        "regroup question",
+        "table instructions",
+        "printable workshop brief"
+      ],
+      "deployed_url": "https://breakout-brief.vercel.app",
+      "repo": "https://github.com/sakibuilds/breakout-brief",
+      "date": "2026-08-04",
+      "what_it_does": "Builds a clean breakout exercise card for workshops with a timebox, prompt steps, deliverable, facilitator tip, and regroup question that can be printed or projected."
     }
   ],
   "forbidden_categories": [
@@ -493,5 +509,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-03T03:54:52.232Z"
+  "generated_at": "2026-08-03T21:36:47.076Z"
 }
