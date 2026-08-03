@@ -464,6 +464,22 @@
       "repo": "https://github.com/sakibuilds/rename-ready",
       "date": "2026-08-02",
       "what_it_does": "Cleans up messy filenames into a consistent batch with optional date stamps, prefixes, numbering, duplicate handling, and preserved file extensions."
+    },
+    {
+      "id": 30,
+      "name": "question-budget",
+      "category": "event-tool",
+      "function_keywords": [
+        "panel question timing",
+        "moderator pacing",
+        "speaking budget",
+        "cut list",
+        "panel prep"
+      ],
+      "deployed_url": "https://question-budget.vercel.app",
+      "repo": "https://github.com/sakibuilds/question-budget",
+      "date": "2026-08-03",
+      "what_it_does": "Turns a panel question list into a realistic moderator run, separating must-cover questions from reserve ones and budgeting answer time per panelist."
     }
   ],
   "forbidden_categories": [
@@ -477,5 +493,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-01T21:36:03.478Z"
+  "generated_at": "2026-08-03T03:54:52.232Z"
 }
