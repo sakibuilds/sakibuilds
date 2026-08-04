@@ -496,6 +496,22 @@
       "repo": "https://github.com/sakibuilds/breakout-brief",
       "date": "2026-08-04",
       "what_it_does": "Builds a clean breakout exercise card for workshops with a timebox, prompt steps, deliverable, facilitator tip, and regroup question that can be printed or projected."
+    },
+    {
+      "id": 32,
+      "name": "greenroom-card",
+      "category": "event-tool",
+      "function_keywords": [
+        "tech check",
+        "greenroom handoff",
+        "demo fallback",
+        "stage dependencies",
+        "av checklist"
+      ],
+      "deployed_url": "https://greenroom-card.vercel.app",
+      "repo": "https://github.com/sakibuilds/greenroom-card",
+      "date": "2026-08-05",
+      "what_it_does": "Creates a one-page speaker handoff card for live sessions, combining intro cues, tech dependencies, fallback steps, and room notes into a print-ready brief."
     }
   ],
   "forbidden_categories": [
@@ -509,5 +525,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-03T21:36:47.076Z"
+  "generated_at": "2026-08-04T21:36:45.858Z"
 }
