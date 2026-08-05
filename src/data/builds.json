@@ -512,6 +512,22 @@
       "repo": "https://github.com/sakibuilds/greenroom-card",
       "date": "2026-08-05",
       "what_it_does": "Creates a one-page speaker handoff card for live sessions, combining intro cues, tech dependencies, fallback steps, and room notes into a print-ready brief."
+    },
+    {
+      "id": 33,
+      "name": "transcript-tidy",
+      "category": "personal-productivity",
+      "function_keywords": [
+        "transcript cleanup",
+        "timestamp stripper",
+        "speaker label normalizer",
+        "filler reduction",
+        "action line extractor"
+      ],
+      "deployed_url": "https://transcript-tidy.vercel.app",
+      "repo": "https://github.com/sakibuilds/transcript-tidy",
+      "date": "2026-08-06",
+      "what_it_does": "Cleans pasted call transcripts by stripping timestamps, reducing filler-heavy lines, normalizing speaker labels, and pulling likely action items into a copyable list."
     }
   ],
   "forbidden_categories": [
@@ -525,5 +541,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-04T21:36:45.858Z"
+  "generated_at": "2026-08-05T21:37:03.638Z"
 }
