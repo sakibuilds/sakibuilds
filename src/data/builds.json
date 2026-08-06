@@ -528,6 +528,22 @@
       "repo": "https://github.com/sakibuilds/transcript-tidy",
       "date": "2026-08-06",
       "what_it_does": "Cleans pasted call transcripts by stripping timestamps, reducing filler-heavy lines, normalizing speaker labels, and pulling likely action items into a copyable list."
+    },
+    {
+      "id": 34,
+      "name": "copy-compare-steel",
+      "category": "utility",
+      "function_keywords": [
+        "text diff",
+        "sentence compare",
+        "word highlights",
+        "change summary",
+        "copy review"
+      ],
+      "deployed_url": "https://copy-compare-steel.vercel.app",
+      "repo": "https://github.com/sakibuilds/copy-compare-steel",
+      "date": "2026-08-07",
+      "what_it_does": "Compares two pasted text versions, highlighting sentence additions/removals, surfacing word-level changes, and summarizing count deltas in a clean browser-based review tool."
     }
   ],
   "forbidden_categories": [
@@ -541,5 +557,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-05T21:37:03.638Z"
+  "generated_at": "2026-08-06T21:38:13.112Z"
 }
