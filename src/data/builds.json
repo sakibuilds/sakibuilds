@@ -544,6 +544,22 @@
       "repo": "https://github.com/sakibuilds/copy-compare-steel",
       "date": "2026-08-07",
       "what_it_does": "Compares two pasted text versions, highlighting sentence additions/removals, surfacing word-level changes, and summarizing count deltas in a clean browser-based review tool."
+    },
+    {
+      "id": 35,
+      "name": "gap-garden",
+      "category": "operations",
+      "function_keywords": [
+        "calendar gap planner",
+        "free block calculator",
+        "buffer-aware scheduling",
+        "microtask fit",
+        "focus window"
+      ],
+      "deployed_url": "https://gap-garden.vercel.app",
+      "repo": "https://github.com/sakibuilds/gap-garden",
+      "date": "2026-08-08",
+      "what_it_does": "Maps a workday, subtracts transition buffers, and turns free calendar fragments into scored work windows with recommended task sizes."
     }
   ],
   "forbidden_categories": [
@@ -557,5 +573,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-06T21:38:13.112Z"
+  "generated_at": "2026-08-07T21:38:39.049Z"
 }
