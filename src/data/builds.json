@@ -560,6 +560,22 @@
       "repo": "https://github.com/sakibuilds/gap-garden",
       "date": "2026-08-08",
       "what_it_does": "Maps a workday, subtracts transition buffers, and turns free calendar fragments into scored work windows with recommended task sizes."
+    },
+    {
+      "id": 36,
+      "name": "routine-ribbon",
+      "category": "family",
+      "function_keywords": [
+        "visual routine",
+        "task timer",
+        "progress strip",
+        "child independence",
+        "schedule cards"
+      ],
+      "deployed_url": "https://routine-ribbon.vercel.app",
+      "repo": "https://github.com/sakibuilds/routine-ribbon",
+      "date": "2026-08-09",
+      "what_it_does": "Builds a visual routine ribbon for repeated home sequences, with editable step cards, countdown timers, live progress, and device-local persistence."
     }
   ],
   "forbidden_categories": [
@@ -573,5 +589,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-07T21:38:39.049Z"
+  "generated_at": "2026-08-08T21:36:39.783Z"
 }
