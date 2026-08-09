@@ -576,6 +576,22 @@
       "repo": "https://github.com/sakibuilds/routine-ribbon",
       "date": "2026-08-09",
       "what_it_does": "Builds a visual routine ribbon for repeated home sequences, with editable step cards, countdown timers, live progress, and device-local persistence."
+    },
+    {
+      "id": 37,
+      "name": "subject-frame",
+      "category": "personal-productivity",
+      "function_keywords": [
+        "subject line preview",
+        "preheader pairing",
+        "inbox clipping",
+        "mobile email preview",
+        "ab variant"
+      ],
+      "deployed_url": "https://subject-frame.vercel.app",
+      "repo": "https://github.com/sakibuilds/subject-frame",
+      "date": "2026-08-10",
+      "what_it_does": "Lets you draft two subject-line variants with a shared preheader, preview how each lands in mobile, desktop, and notification inbox layouts, and copy the stronger version before sending."
     }
   ],
   "forbidden_categories": [
@@ -589,5 +605,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-08T21:36:39.783Z"
+  "generated_at": "2026-08-09T21:38:16.523Z"
 }
