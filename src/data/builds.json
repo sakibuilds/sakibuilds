@@ -624,6 +624,22 @@
       "repo": "https://github.com/sakibuilds/session-pack",
       "date": "2026-08-11",
       "what_it_does": "Turns one session brief into reusable copy blocks for event forms, host intros, speaker notes, promo blurbs, and attendee takeaway lines."
+    },
+    {
+      "id": 40,
+      "name": "quote-sifter",
+      "category": "writing",
+      "function_keywords": [
+        "pull quote finder",
+        "sentence scoring",
+        "excerpt shortlist",
+        "speaker filter",
+        "quote copy"
+      ],
+      "deployed_url": "https://quote-sifter.vercel.app",
+      "repo": "https://github.com/sakibuilds/quote-sifter",
+      "date": "2026-08-12",
+      "what_it_does": "Scores pasted transcript or draft sentences for quotability, filters them by length and speaker, and surfaces a copy-ready shortlist of likely pull quotes."
     }
   ],
   "forbidden_categories": [
@@ -637,5 +653,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-11T05:54:05.886Z"
+  "generated_at": "2026-08-11T21:44:24.859Z"
 }
