@@ -608,6 +608,22 @@
       "repo": "https://github.com/sakibuilds/link-laundry",
       "date": "2026-08-11",
       "what_it_does": "Cleans pasted URLs by removing common tracking parameters, deduplicating results, and returning clean share-ready links with the removed parameters shown for review."
+    },
+    {
+      "id": 39,
+      "name": "session-pack",
+      "category": "event-tool",
+      "function_keywords": [
+        "session abstract",
+        "host intro",
+        "speaker card",
+        "promo copy kit",
+        "organizer metadata"
+      ],
+      "deployed_url": "https://session-pack.vercel.app",
+      "repo": "https://github.com/sakibuilds/session-pack",
+      "date": "2026-08-11",
+      "what_it_does": "Turns one session brief into reusable copy blocks for event forms, host intros, speaker notes, promo blurbs, and attendee takeaway lines."
     }
   ],
   "forbidden_categories": [
@@ -621,5 +637,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-10T21:37:28.060Z"
+  "generated_at": "2026-08-11T05:54:05.886Z"
 }
