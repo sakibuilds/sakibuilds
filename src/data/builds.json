@@ -640,6 +640,22 @@
       "repo": "https://github.com/sakibuilds/quote-sifter",
       "date": "2026-08-12",
       "what_it_does": "Scores pasted transcript or draft sentences for quotability, filters them by length and speaker, and surfaces a copy-ready shortlist of likely pull quotes."
+    },
+    {
+      "id": 41,
+      "name": "figure-phrasing",
+      "category": "utility",
+      "function_keywords": [
+        "number to words",
+        "indian numbering",
+        "magnitude converter",
+        "currency phrasing",
+        "comma formatter"
+      ],
+      "deployed_url": "https://figure-phrasing.vercel.app",
+      "repo": "https://github.com/sakibuilds/figure-phrasing",
+      "date": "2026-08-13",
+      "what_it_does": "Converts pasted figures into Indian comma formatting, amount-in-words text, rupees-and-paise cheque phrasing, and compact magnitude summaries with copy-ready outputs."
     }
   ],
   "forbidden_categories": [
@@ -653,5 +669,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-11T21:44:24.859Z"
+  "generated_at": "2026-08-12T21:44:51.610Z"
 }
