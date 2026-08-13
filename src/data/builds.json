@@ -656,6 +656,22 @@
       "repo": "https://github.com/sakibuilds/figure-phrasing",
       "date": "2026-08-13",
       "what_it_does": "Converts pasted figures into Indian comma formatting, amount-in-words text, rupees-and-paise cheque phrasing, and compact magnitude summaries with copy-ready outputs."
+    },
+    {
+      "id": 42,
+      "name": "reply-cleaner",
+      "category": "writing",
+      "function_keywords": [
+        "reply softener",
+        "tone cleaner",
+        "diplomatic rewrite",
+        "message polish",
+        "heat score"
+      ],
+      "deployed_url": "https://reply-cleaner.vercel.app",
+      "repo": "https://github.com/sakibuilds/reply-cleaner",
+      "date": "2026-08-14",
+      "what_it_does": "Takes a sharp pasted message, estimates how heated it sounds, and generates three calmer rewrites tuned to the relationship and diplomacy level."
     }
   ],
   "forbidden_categories": [
@@ -669,5 +685,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-12T21:44:51.610Z"
+  "generated_at": "2026-08-13T21:36:40.246Z"
 }
