@@ -672,6 +672,22 @@
       "repo": "https://github.com/sakibuilds/reply-cleaner",
       "date": "2026-08-14",
       "what_it_does": "Takes a sharp pasted message, estimates how heated it sounds, and generates three calmer rewrites tuned to the relationship and diplomacy level."
+    },
+    {
+      "id": 43,
+      "name": "invoice-nudge-pack",
+      "category": "operations",
+      "function_keywords": [
+        "payment reminder",
+        "aging ladder",
+        "chase copy",
+        "invoice follow-up",
+        "escalation path"
+      ],
+      "deployed_url": "https://invoice-nudge-pack.vercel.app",
+      "repo": "https://github.com/sakibuilds/invoice-nudge-pack",
+      "date": "2026-08-15",
+      "what_it_does": "Plans invoice follow-ups by computing aging status, generating a dated reminder ladder, and drafting copy for email, WhatsApp, and escalation steps from one generic invoice brief."
     }
   ],
   "forbidden_categories": [
@@ -685,5 +701,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-13T21:36:40.246Z"
+  "generated_at": "2026-08-14T21:41:22.766Z"
 }
