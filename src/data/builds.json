@@ -521,13 +521,13 @@
         "transcript cleanup",
         "timestamp stripper",
         "speaker label normalizer",
-        "filler reduction",
-        "action line extractor"
+        "decision extractor",
+        "follow-up draft"
       ],
       "deployed_url": "https://transcript-tidy.vercel.app",
       "repo": "https://github.com/sakibuilds/transcript-tidy",
-      "date": "2026-08-06",
-      "what_it_does": "Cleans pasted call transcripts by stripping timestamps, reducing filler-heavy lines, normalizing speaker labels, and pulling likely action items into a copyable list."
+      "date": "2026-08-16",
+      "what_it_does": "Cleans pasted call transcripts, pulls out likely decisions and next steps, and assembles a reusable recap pack plus follow-up email draft from the same raw notes."
     },
     {
       "id": 34,
@@ -701,5 +701,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-14T21:41:22.766Z"
+  "generated_at": "2026-08-15T21:37:12.447Z"
 }
