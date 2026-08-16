@@ -688,6 +688,22 @@
       "repo": "https://github.com/sakibuilds/invoice-nudge-pack",
       "date": "2026-08-15",
       "what_it_does": "Plans invoice follow-ups by computing aging status, generating a dated reminder ladder, and drafting copy for email, WhatsApp, and escalation steps from one generic invoice brief."
+    },
+    {
+      "id": 44,
+      "name": "sponsor-narrative",
+      "category": "sales",
+      "function_keywords": [
+        "sponsorship proposal scaffold",
+        "annual partner narrative",
+        "9-part structure",
+        "regulatory hook prompts",
+        "no-pricing guardrail"
+      ],
+      "deployed_url": "https://sponsor-narrative.vercel.app",
+      "repo": "https://github.com/sakibuilds/sponsor-narrative",
+      "date": "2026-08-17",
+      "what_it_does": "Builds a 9-part annual sponsorship proposal from market pain points, regulatory hooks, program themes, three sponsorship options, and success measures — with live guardrails that keep pricing out of the body and the sponsor's name to 2–3 mentions."
     }
   ],
   "forbidden_categories": [
@@ -701,5 +717,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-15T21:37:12.447Z"
+  "generated_at": "2026-08-16T21:40:10.478Z"
 }
