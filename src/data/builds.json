@@ -704,6 +704,22 @@
       "repo": "https://github.com/sakibuilds/sponsor-narrative",
       "date": "2026-08-17",
       "what_it_does": "Builds a 9-part annual sponsorship proposal from market pain points, regulatory hooks, program themes, three sponsorship options, and success measures — with live guardrails that keep pricing out of the body and the sponsor's name to 2–3 mentions."
+    },
+    {
+      "id": 45,
+      "name": "event-wrap",
+      "category": "event-tool",
+      "function_keywords": [
+        "post-event communication",
+        "speaker thank-you",
+        "attendance recap",
+        "partner thank-you",
+        "social recap post"
+      ],
+      "deployed_url": "https://event-wrap.vercel.app",
+      "repo": "https://github.com/sakibuilds/event-wrap",
+      "date": "2026-08-18",
+      "what_it_does": "Turns one post-event brief into copy-ready blocks: speaker thank-you emails, attendee recap emails, partner thank-you notes, an internal team recap, and a social post, each with a subject line, links, and one-click copy."
     }
   ],
   "forbidden_categories": [
@@ -717,5 +733,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-16T21:40:10.478Z"
+  "generated_at": "2026-08-17T21:36:19.962Z"
 }
