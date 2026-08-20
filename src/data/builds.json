@@ -720,6 +720,22 @@
       "repo": "https://github.com/sakibuilds/event-wrap",
       "date": "2026-08-18",
       "what_it_does": "Turns one post-event brief into copy-ready blocks: speaker thank-you emails, attendee recap emails, partner thank-you notes, an internal team recap, and a social post, each with a subject line, links, and one-click copy."
+    },
+    {
+      "id": 46,
+      "name": "announce-pack",
+      "category": "writing",
+      "function_keywords": [
+        "press release builder",
+        "media announcement",
+        "journalist pitch",
+        "social distribution",
+        "media copy"
+      ],
+      "deployed_url": "https://announce-pack.vercel.app",
+      "repo": "https://github.com/sakibuilds/announce-pack",
+      "date": "2026-08-21",
+      "what_it_does": "Turns one announcement brief into copy-ready media blocks: press release headlines, lede, body key points, quote, about boilerplate, journalist outreach pitch, and a social post, each with one-click copy."
     }
   ],
   "forbidden_categories": [
@@ -733,5 +749,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-17T21:36:19.962Z"
+  "generated_at": "2026-08-20T21:36:23.495Z"
 }
