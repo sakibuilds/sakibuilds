@@ -736,6 +736,22 @@
       "repo": "https://github.com/sakibuilds/announce-pack",
       "date": "2026-08-21",
       "what_it_does": "Turns one announcement brief into copy-ready media blocks: press release headlines, lede, body key points, quote, about boilerplate, journalist outreach pitch, and a social post, each with one-click copy."
+    },
+    {
+      "id": 47,
+      "name": "voice-marks",
+      "category": "voice-tool",
+      "function_keywords": [
+        "browser recorder",
+        "live speech captions",
+        "moment marker",
+        "time-coded transcript",
+        "seekable playback"
+      ],
+      "deployed_url": "https://voice-marks.vercel.app",
+      "repo": "https://github.com/sakibuilds/voice-marks",
+      "date": "2026-08-22",
+      "what_it_does": "Records conversations locally with real-time captions, lets the user tap to mark important moments mid-recording, then jump playback to any marker or time-stamped caption line; copy transcript or marked-moments notes."
     }
   ],
   "forbidden_categories": [
@@ -749,5 +765,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-20T21:36:23.495Z"
+  "generated_at": "2026-08-21T19:04:26.622Z"
 }
