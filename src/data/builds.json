@@ -752,6 +752,22 @@
       "repo": "https://github.com/sakibuilds/voice-marks",
       "date": "2026-08-22",
       "what_it_does": "Records conversations locally with real-time captions, lets the user tap to mark important moments mid-recording, then jump playback to any marker or time-stamped caption line; copy transcript or marked-moments notes."
+    },
+    {
+      "id": 48,
+      "name": "counter-loom",
+      "category": "argument-tool",
+      "function_keywords": [
+        "steelman framing",
+        "rebuttal drafting",
+        "counter-argument scaffold",
+        "opinion writing prep",
+        "thesis stress-test"
+      ],
+      "deployed_url": "https://counter-loom.vercel.app",
+      "repo": "https://github.com/sakibuilds/counter-loom",
+      "date": "2026-08-22",
+      "what_it_does": "Stress-tests a claim by building the strongest version of the opposing view (steelman) and a matching rebuttal. Pick counter-argument classes (evidence gap, hidden trade-off, unintended consequence, false analogy, etc.), draft steelman + rebuttal for each, sharpen a through-line strongest reply and closer, then copy a clean Markdown brief. LocalStorage persistence, no backend, no CRUD."
     }
   ],
   "forbidden_categories": [
@@ -765,5 +781,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-21T19:04:26.622Z"
+  "generated_at": "2026-08-21T21:38:53.705Z"
 }
