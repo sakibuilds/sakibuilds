@@ -770,6 +770,22 @@
       "repo": "https://github.com/sakibuilds/counter-loom",
       "date": "2026-08-22",
       "what_it_does": "Stress-tests a claim by building the strongest version of the opposing view (steelman) and a matching rebuttal. Pick counter-argument classes (evidence gap, hidden trade-off, unintended consequence, false analogy, etc.), draft steelman + rebuttal for each, sharpen a through-line strongest reply and closer, then copy a clean Markdown brief. LocalStorage persistence, no backend, no CRUD."
+    },
+    {
+      "id": 49,
+      "name": "spoken-pack",
+      "category": "voice-tool",
+      "function_keywords": [
+        "voice script generator",
+        "spoken output pack",
+        "browser speech rendering",
+        "tone variants",
+        "rehearsal cues"
+      ],
+      "deployed_url": "https://spoken-pack.vercel.app",
+      "repo": "https://github.com/sakibuilds/spoken-pack",
+      "date": "2026-08-23",
+      "what_it_does": "Turns one generic message brief into multiple ready-to-deliver spoken outputs: voice note, announcement readout, warm follow-up draft, pause-marked rehearsal, and compact delivery cue sheet with read-aloud rehearsal."
     }
   ],
   "forbidden_categories": [
@@ -783,5 +799,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-22T02:24:30.153Z"
+  "generated_at": "2026-08-22T21:35:46.390Z"
 }
