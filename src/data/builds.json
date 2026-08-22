@@ -745,13 +745,15 @@
         "browser recorder",
         "live speech captions",
         "moment marker",
-        "time-coded transcript",
-        "seekable playback"
+        "transcript workspace",
+        "action extraction",
+        "follow-up draft",
+        "CRM note"
       ],
       "deployed_url": "https://voice-marks.vercel.app",
       "repo": "https://github.com/sakibuilds/voice-marks",
       "date": "2026-08-22",
-      "what_it_does": "Records conversations locally with real-time captions, lets the user tap to mark important moments mid-recording, then jump playback to any marker or time-stamped caption line; copy transcript or marked-moments notes."
+      "what_it_does": "Records conversations locally or accepts a pasted transcript, preserves marked moments and captions, then turns the raw voice capture into a reusable output pack: summary, action items, follow-up draft, CRM note, and highlights."
     },
     {
       "id": 48,
@@ -781,5 +783,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-21T21:38:53.705Z"
+  "generated_at": "2026-08-22T02:24:30.153Z"
 }
