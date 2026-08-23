@@ -786,6 +786,22 @@
       "repo": "https://github.com/sakibuilds/spoken-pack",
       "date": "2026-08-23",
       "what_it_does": "Turns one generic message brief into multiple ready-to-deliver spoken outputs: voice note, announcement readout, warm follow-up draft, pause-marked rehearsal, and compact delivery cue sheet with read-aloud rehearsal."
+    },
+    {
+      "id": 50,
+      "name": "pronounce-sheet",
+      "category": "voice-tool",
+      "function_keywords": [
+        "pronunciation cue sheet",
+        "phonetic respelling",
+        "delivery notes",
+        "read-aloud rehearsal",
+        "voiceover glossary"
+      ],
+      "deployed_url": "https://pronounce-sheet.vercel.app",
+      "repo": "https://github.com/sakibuilds/pronounce-sheet",
+      "date": "2026-08-24",
+      "what_it_does": "Turns a generic list of names or terms into a print-ready pronunciation cue sheet, phonetic respellings, delivery notes, and a browser read-aloud rehearsal script for spoken output."
     }
   ],
   "forbidden_categories": [
@@ -799,5 +815,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-22T21:35:46.390Z"
+  "generated_at": "2026-08-23T21:35:21.717Z"
 }
