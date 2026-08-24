@@ -802,6 +802,22 @@
       "repo": "https://github.com/sakibuilds/pronounce-sheet",
       "date": "2026-08-24",
       "what_it_does": "Turns a generic list of names or terms into a print-ready pronunciation cue sheet, phonetic respellings, delivery notes, and a browser read-aloud rehearsal script for spoken output."
+    },
+    {
+      "id": 51,
+      "name": "voiceover-board",
+      "category": "voice-tool",
+      "function_keywords": [
+        "slide voiceover",
+        "narration storyboard",
+        "per-slide timing",
+        "transition lines",
+        "recording slate"
+      ],
+      "deployed_url": "https://voiceover-board.vercel.app",
+      "repo": "https://github.com/sakibuilds/voiceover-board",
+      "date": "2026-08-25",
+      "what_it_does": "Turns a generic slide outline into a recording-ready narration storyboard with per-slide scripts, transitions, timing estimates, emphasis cues, a recording slate, read-aloud rehearsal, and copy/print actions."
     }
   ],
   "forbidden_categories": [
@@ -815,5 +831,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-23T21:35:21.717Z"
+  "generated_at": "2026-08-24T21:35:47.376Z"
 }
