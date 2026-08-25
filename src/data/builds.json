@@ -818,6 +818,22 @@
       "repo": "https://github.com/sakibuilds/voiceover-board",
       "date": "2026-08-25",
       "what_it_does": "Turns a generic slide outline into a recording-ready narration storyboard with per-slide scripts, transitions, timing estimates, emphasis cues, a recording slate, read-aloud rehearsal, and copy/print actions."
+    },
+    {
+      "id": 52,
+      "name": "readout-queue",
+      "category": "audio-operations",
+      "function_keywords": [
+        "spoken asset queue",
+        "render manifest",
+        "audio filenames",
+        "runtime budget",
+        "batch readout"
+      ],
+      "deployed_url": "https://readout-queue.vercel.app",
+      "repo": "https://github.com/sakibuilds/readout-queue",
+      "date": "2026-08-26",
+      "what_it_does": "Turns multiple generic script segments into a render-ready spoken asset queue with filenames, slates, pause-marked scripts, duration estimates, a CSV manifest, a Markdown production sheet, and read-aloud rehearsal."
     }
   ],
   "forbidden_categories": [
@@ -831,5 +847,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-24T21:35:47.376Z"
+  "generated_at": "2026-08-25T21:35:53.314Z"
 }
