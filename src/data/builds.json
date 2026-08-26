@@ -834,6 +834,22 @@
       "repo": "https://github.com/sakibuilds/readout-queue",
       "date": "2026-08-26",
       "what_it_does": "Turns multiple generic script segments into a render-ready spoken asset queue with filenames, slates, pause-marked scripts, duration estimates, a CSV manifest, a Markdown production sheet, and read-aloud rehearsal."
+    },
+    {
+      "id": 53,
+      "name": "cue-script",
+      "category": "workshop-ops",
+      "function_keywords": [
+        "facilitator voice cues",
+        "time warning lines",
+        "room reset prompts",
+        "transition script",
+        "spoken facilitation pack"
+      ],
+      "deployed_url": "https://cue-script.vercel.app",
+      "repo": "https://github.com/sakibuilds/cue-script",
+      "date": "2026-08-27",
+      "what_it_does": "Turns a generic session agenda into a spoken facilitation pack: opening line, segment transitions, time warnings, room-reset prompts, closing readout, print sheet, copy actions, and browser read-aloud rehearsal."
     }
   ],
   "forbidden_categories": [
@@ -847,5 +863,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-25T21:35:53.314Z"
+  "generated_at": "2026-08-26T21:37:42.573Z"
 }
