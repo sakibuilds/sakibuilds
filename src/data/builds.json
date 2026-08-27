@@ -850,6 +850,22 @@
       "repo": "https://github.com/sakibuilds/cue-script",
       "date": "2026-08-27",
       "what_it_does": "Turns a generic session agenda into a spoken facilitation pack: opening line, segment transitions, time warnings, room-reset prompts, closing readout, print sheet, copy actions, and browser read-aloud rehearsal."
+    },
+    {
+      "id": 54,
+      "name": "source-ledger-zeta",
+      "category": "writing",
+      "function_keywords": [
+        "citation formatter",
+        "claim source pairs",
+        "source footer",
+        "research notes",
+        "copy-ready"
+      ],
+      "deployed_url": "https://source-ledger-zeta.vercel.app",
+      "repo": "https://github.com/sakibuilds/source-ledger-zeta",
+      "date": "2026-08-27",
+      "what_it_does": "Turns rough claim-and-source notes into a linked claim map, numbered citation list, and copy-ready source footer."
     }
   ],
   "forbidden_categories": [
@@ -863,5 +879,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-26T21:37:42.573Z"
+  "generated_at": "2026-08-27T02:54:47.902Z"
 }
