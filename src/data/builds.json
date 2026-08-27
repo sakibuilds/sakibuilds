@@ -853,19 +853,33 @@
     },
     {
       "id": 54,
-      "name": "source-ledger-zeta",
-      "category": "writing",
+      "name": "contrast-lens-xi",
+      "category": "accessibility",
       "function_keywords": [
-        "citation formatter",
-        "claim source pairs",
-        "source footer",
-        "research notes",
-        "copy-ready"
+        "contrast checker",
+        "WCAG",
+        "color pairs",
+        "accessibility"
       ],
-      "deployed_url": "https://source-ledger-zeta.vercel.app",
-      "repo": "https://github.com/sakibuilds/source-ledger-zeta",
+      "deployed_url": "https://contrast-lens-xi.vercel.app",
+      "repo": "https://github.com/sakibuilds/contrast-lens-xi",
       "date": "2026-08-27",
-      "what_it_does": "Turns rough claim-and-source notes into a linked claim map, numbered citation list, and copy-ready source footer."
+      "what_it_does": "Checks a foreground/background colour pair against WCAG AA and AAA thresholds, with a live preview and copyable result."
+    },
+    {
+      "id": 55,
+      "name": "contact-qr",
+      "category": "networking-utility",
+      "function_keywords": [
+        "vCard QR",
+        "contact sharing",
+        "printable card",
+        "offline contact card"
+      ],
+      "deployed_url": "https://contact-qr-jade.vercel.app",
+      "repo": "https://github.com/sakibuilds/contact-qr",
+      "date": "2026-08-28",
+      "what_it_does": "Creates a printable contact card with a standard vCard QR code that phones can save directly, with local device persistence and copyable vCard output."
     }
   ],
   "forbidden_categories": [
@@ -879,5 +893,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-27T02:54:47.902Z"
+  "generated_at": "2026-08-27T21:34:53.782Z"
 }
