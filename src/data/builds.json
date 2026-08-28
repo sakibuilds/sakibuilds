@@ -253,8 +253,9 @@
       ],
       "deployed_url": "https://invoice-flow-phi-rosy.vercel.app",
       "repo": "https://github.com/sakibuilds/invoice-flow",
-      "date": "2026-07-20",
-      "what_it_does": "Printable invoice generator — enter client details, line items with quantity/rate, tax percentage, and notes. Live preview panel updates in real time. Print/PDF via browser print. Auto-incrementing invoice numbers. Pure client-side, no backend, no CRUD."
+      "date": "2026-08-29",
+      "what_it_does": "Printable invoice generator with live preview, line items, tax calculation, editable due dates, local draft autosave, and copy-ready payment summaries. Pure client-side, no backend.",
+      "last_updated": "2026-08-29"
     },
     {
       "id": 17,
@@ -893,5 +894,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-27T21:34:53.782Z"
+  "generated_at": "2026-08-28T21:39:37.293Z"
 }
