@@ -881,6 +881,23 @@
       "repo": "https://github.com/sakibuilds/contact-qr",
       "date": "2026-08-28",
       "what_it_does": "Creates a printable contact card with a standard vCard QR code that phones can save directly, with local device persistence and copyable vCard output."
+    },
+    {
+      "id": 56,
+      "name": "seatwise-kappa",
+      "category": "operations",
+      "function_keywords": [
+        "event economics planner",
+        "break-even analysis",
+        "ticket mix",
+        "sponsorship scenarios",
+        "attendance sensitivity"
+      ],
+      "deployed_url": "https://seatwise-kappa.vercel.app",
+      "repo": "https://github.com/sakibuilds/seatwise-kappa",
+      "date": "2026-08-31",
+      "what_it_does": "Offline-first event/workshop economics planner with capacity and ticket mix modelling, sponsor-funded/free scenarios, break-even metrics, attendance sensitivity, deterministic planning insights, local autosave, copy brief, and print plan.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -894,5 +911,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-29T21:36:39.748Z"
+  "generated_at": "2026-08-31T03:13:30.311Z"
 }
