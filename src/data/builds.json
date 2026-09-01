@@ -898,6 +898,23 @@
       "date": "2026-08-31",
       "what_it_does": "Offline-first event/workshop economics planner with capacity and ticket mix modelling, sponsor-funded/free scenarios, break-even metrics, attendance sensitivity, deterministic planning insights, local autosave, copy brief, and print plan.",
       "status": "success"
+    },
+    {
+      "id": 57,
+      "name": "policy-impact-map",
+      "category": "editorial-operations",
+      "function_keywords": [
+        "policy analysis",
+        "stakeholder mapping",
+        "impact scoring",
+        "evidence gaps",
+        "editorial decision brief"
+      ],
+      "deployed_url": "https://policy-impact-map.vercel.app",
+      "repo": "https://github.com/sakibuilds/policy-impact-map",
+      "date": "2026-09-02",
+      "what_it_does": "Offline-first policy decision workspace that maps winners, cost-bearers, implementers, and missing voices; scores public interest, industry effect, implementation risk, and urgency; then surfaces red flags, reporting questions, and a copyable Markdown brief.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -911,5 +928,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-08-31T03:13:30.311Z"
+  "generated_at": "2026-09-01T21:47:59.726Z"
 }
