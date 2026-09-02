@@ -915,6 +915,24 @@
       "date": "2026-09-02",
       "what_it_does": "Offline-first policy decision workspace that maps winners, cost-bearers, implementers, and missing voices; scores public interest, industry effect, implementation risk, and urgency; then surfaces red flags, reporting questions, and a copyable Markdown brief.",
       "status": "success"
+    },
+    {
+      "id": 58,
+      "name": "scopewright-tau",
+      "category": "agent-infrastructure",
+      "function_keywords": [
+        "permission boundaries",
+        "least privilege",
+        "agent sandbox design",
+        "risk analysis",
+        "policy JSON",
+        "deny by default"
+      ],
+      "deployed_url": "https://scopewright-tau.vercel.app",
+      "repo": "https://github.com/sakibuilds/scopewright-tau",
+      "date": "2026-09-03",
+      "what_it_does": "Offline-first agent permission boundary designer: model deployment context and capabilities, audit risk and least privilege, then export a deterministic human review summary, policy JSON, and shell notes. It is a design/review artifact, not an enforcement layer.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -928,5 +946,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-01T21:47:59.726Z"
+  "generated_at": "2026-09-02T21:48:54.175Z"
 }
