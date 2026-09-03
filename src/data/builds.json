@@ -933,6 +933,25 @@
       "date": "2026-09-03",
       "what_it_does": "Offline-first agent permission boundary designer: model deployment context and capabilities, audit risk and least privilege, then export a deterministic human review summary, policy JSON, and shell notes. It is a design/review artifact, not an enforcement layer.",
       "status": "success"
+    },
+    {
+      "id": 59,
+      "name": "crisis-room-chi",
+      "category": "incident-operations",
+      "function_keywords": [
+        "incident response",
+        "severity assessment",
+        "stakeholder map",
+        "decision gates",
+        "first-hour actions",
+        "readiness checklist"
+      ],
+      "deployed_url": "https://crisis-room-chi.vercel.app",
+      "repo": "https://github.com/sakibuilds/crisis-room-chi",
+      "date": "2026-09-04",
+      "what_it_does": "Offline-first PR/comms incident command workspace: assess severity, sequence first-hour actions, map stakeholders, choose a response posture, check readiness, and export a concise command brief.",
+      "source": "Grounded in Nikhil’s Preasy.ai role in the PR industry and MediaNama/editorial operations, where live issues require rapid fact-aware decisions, stakeholder coordination, and explicit update ownership.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -946,5 +965,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-02T21:48:54.175Z"
+  "generated_at": "2026-09-03T21:41:36.632Z"
 }
