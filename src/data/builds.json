@@ -952,6 +952,24 @@
       "what_it_does": "Offline-first PR/comms incident command workspace: assess severity, sequence first-hour actions, map stakeholders, choose a response posture, check readiness, and export a concise command brief.",
       "source": "Grounded in Nikhil’s Preasy.ai role in the PR industry and MediaNama/editorial operations, where live issues require rapid fact-aware decisions, stakeholder coordination, and explicit update ownership.",
       "status": "success"
+    },
+    {
+      "id": 60,
+      "name": "indexing-triage",
+      "category": "publisher-operations",
+      "function_keywords": [
+        "Search Console",
+        "publisher indexing",
+        "issue triage",
+        "crawl errors",
+        "remediation queue"
+      ],
+      "deployed_url": "https://indexing-triage.vercel.app",
+      "repo": "https://github.com/sakibuilds/indexing-triage",
+      "date": "2026-09-09",
+      "what_it_does": "Offline-first publisher Search Console issue triage workspace: import issue rows, deterministically prioritize crawl/indexing problems, assign owner lanes, record review state, and export a handoff brief.",
+      "source": "Grounded in two concrete signals: MediaNama is an active publisher with a Google News Initiative Search Console workshop on Nikhil's calendar this week, and Nikhil's build-economics notes identify distribution and deploy verification as the current bottleneck across his many shipped apps.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -965,5 +983,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-03T21:41:36.632Z"
+  "generated_at": "2026-09-08T21:46:42.565Z"
 }
