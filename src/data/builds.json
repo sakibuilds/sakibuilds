@@ -970,6 +970,24 @@
       "what_it_does": "Offline-first publisher Search Console issue triage workspace: import issue rows, deterministically prioritize crawl/indexing problems, assign owner lanes, record review state, and export a handoff brief.",
       "source": "Grounded in two concrete signals: MediaNama is an active publisher with a Google News Initiative Search Console workshop on Nikhil's calendar this week, and Nikhil's build-economics notes identify distribution and deploy verification as the current bottleneck across his many shipped apps.",
       "status": "success"
+    },
+    {
+      "id": 61,
+      "name": "shipcheck-inky",
+      "category": "developer-operations",
+      "function_keywords": [
+        "deployment smoke test",
+        "HTTP verification",
+        "redirect check",
+        "metadata inspection",
+        "route health"
+      ],
+      "deployed_url": "https://shipcheck-inky.vercel.app",
+      "repo": "https://github.com/sakibuilds/shipcheck-inky",
+      "date": "2026-09-10",
+      "what_it_does": "Checks a deployed web app's reachability, redirects, response timing, metadata, expected stable text, and required paths, then produces a copyable smoke-test report.",
+      "source": "Grounded in two concrete signals: Nikhil has a large recurring portfolio of shipped web apps, and the nightly delivery workflow explicitly treats deployment verification (build, HTTP 200, stable initial content) as a repeated bottleneck.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -983,5 +1001,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-08T21:46:42.565Z"
+  "generated_at": "2026-09-09T21:39:47.207Z"
 }
