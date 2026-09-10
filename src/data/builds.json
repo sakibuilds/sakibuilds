@@ -988,6 +988,24 @@
       "what_it_does": "Checks a deployed web app's reachability, redirects, response timing, metadata, expected stable text, and required paths, then produces a copyable smoke-test report.",
       "source": "Grounded in two concrete signals: Nikhil has a large recurring portfolio of shipped web apps, and the nightly delivery workflow explicitly treats deployment verification (build, HTTP 200, stable initial content) as a repeated bottleneck.",
       "status": "success"
+    },
+    {
+      "id": 62,
+      "name": "ai-stack-budget",
+      "category": "agent-infrastructure",
+      "function_keywords": [
+        "AI cost planning",
+        "monthly cap review",
+        "provider model assumptions",
+        "scenario comparison",
+        "portfolio budget"
+      ],
+      "deployed_url": "https://ai-stack-budget.vercel.app",
+      "repo": "https://github.com/sakibuilds/ai-stack-budget",
+      "date": "2026-09-11",
+      "what_it_does": "Offline-first planning workspace for modelling AI product and agent spend across editable provider/model assumptions, hard monthly caps, cap breach explanations, and lean/base/scale scenarios.",
+      "source": "Grounded in two concrete signals: Nikhil is explicitly cost-conscious about tokens and servers, and he is building multiple AI-native apps while using several model providers and coding agents; this workspace makes recurring model spend and hard ceilings explicit before usage surprises.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1001,5 +1019,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-09T21:39:47.207Z"
+  "generated_at": "2026-09-10T21:38:25.002Z"
 }
