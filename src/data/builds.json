@@ -1006,6 +1006,24 @@
       "what_it_does": "Offline-first planning workspace for modelling AI product and agent spend across editable provider/model assumptions, hard monthly caps, cap breach explanations, and lean/base/scale scenarios.",
       "source": "Grounded in two concrete signals: Nikhil is explicitly cost-conscious about tokens and servers, and he is building multiple AI-native apps while using several model providers and coding agents; this workspace makes recurring model spend and hard ceilings explicit before usage surprises.",
       "status": "success"
+    },
+    {
+      "id": 63,
+      "name": "pattern-grove",
+      "category": "family",
+      "function_keywords": [
+        "pattern recognition",
+        "early learning game",
+        "visual sequences",
+        "progressive difficulty",
+        "child education"
+      ],
+      "deployed_url": "https://pattern-grove.vercel.app",
+      "repo": "https://github.com/sakibuilds/pattern-grove",
+      "date": "2026-09-12",
+      "what_it_does": "A child-friendly pattern-recognition game: complete visual AB, AAB, and ABC sequences across 10 rounds with immediate feedback, streaks, a celebration screen, and grown-up settings.",
+      "source": "Grounded in two concrete signals: Nikhil is a father to Viraj, and accepted family builds include kid-reads, letter-explorer, emoji-math, and routine-ribbon; this is a distinct repeat-use learning game rather than a tracker or document utility.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1019,5 +1037,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-10T21:38:25.002Z"
+  "generated_at": "2026-09-11T21:37:20.972Z"
 }
