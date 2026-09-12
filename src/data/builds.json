@@ -1024,6 +1024,25 @@
       "what_it_does": "A child-friendly pattern-recognition game: complete visual AB, AAB, and ABC sequences across 10 rounds with immediate feedback, streaks, a celebration screen, and grown-up settings.",
       "source": "Grounded in two concrete signals: Nikhil is a father to Viraj, and accepted family builds include kid-reads, letter-explorer, emoji-math, and routine-ribbon; this is a distinct repeat-use learning game rather than a tracker or document utility.",
       "status": "success"
+    },
+    {
+      "id": 64,
+      "name": "decision-gate-peach",
+      "category": "decision-operations",
+      "function_keywords": [
+        "decision workspace",
+        "weighted criteria",
+        "option trade-offs",
+        "evidence gate",
+        "reversibility",
+        "go stop defer"
+      ],
+      "deployed_url": "https://decision-gate-peach.vercel.app",
+      "repo": "https://github.com/sakibuilds/decision-gate-peach",
+      "date": "2026-09-13",
+      "what_it_does": "Offline-first decision workspace for making go, stop, defer, hire, ship, and partner calls with weighted criteria, option trade-offs, evidence gates, reversibility, and copyable Markdown records.",
+      "source": "Grounded in two concrete signals: Nikhil repeatedly needs prioritisation support across MediaNama, Preasy.ai, investments, workshops, and app builds; and his operating brief explicitly asks for decisions to be simplified into drop, defer, or delegate. This is a reusable decision instrument, not a tracker or text-packaging tool.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1037,5 +1056,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-11T21:37:20.972Z"
+  "generated_at": "2026-09-12T21:38:16.408Z"
 }
