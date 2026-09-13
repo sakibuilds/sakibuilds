@@ -1043,6 +1043,25 @@
       "what_it_does": "Offline-first decision workspace for making go, stop, defer, hire, ship, and partner calls with weighted criteria, option trade-offs, evidence gates, reversibility, and copyable Markdown records.",
       "source": "Grounded in two concrete signals: Nikhil repeatedly needs prioritisation support across MediaNama, Preasy.ai, investments, workshops, and app builds; and his operating brief explicitly asks for decisions to be simplified into drop, defer, or delegate. This is a reusable decision instrument, not a tracker or text-packaging tool.",
       "status": "success"
+    },
+    {
+      "id": 65,
+      "name": "webhook-contract-lab",
+      "category": "developer-operations",
+      "function_keywords": [
+        "webhook contract testing",
+        "HTTP request builder",
+        "response assertions",
+        "demo response",
+        "localStorage contracts",
+        "n8n webhook"
+      ],
+      "deployed_url": "https://webhook-contract-lab.vercel.app",
+      "repo": "https://github.com/sakibuilds/webhook-contract-lab",
+      "date": "2026-09-14",
+      "what_it_does": "Browser-only webhook contract tester for automation builders: define an endpoint request, expected status, and response assertions; run a real or safe demo request, inspect response details, and save/export repeatable contracts locally.",
+      "source": "Grounded in two concrete signals: Nikhil actively uses n8n/webhook automation and MCP integrations, and he is building multiple AI-native apps that need repeatable integration checks before shipping. This is a distinct developer workflow tool, not a dashboard, tracker, smoke-test clone, or text transformation utility.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1056,5 +1075,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-12T21:38:16.408Z"
+  "generated_at": "2026-09-13T21:37:28.120Z"
 }
