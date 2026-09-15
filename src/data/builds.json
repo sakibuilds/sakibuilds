@@ -1081,6 +1081,24 @@
       "what_it_does": "Child-friendly spatial puzzle where players place colourful geometric pieces onto matching silhouettes across 12 progressive levels, with touch-friendly drag and drop, keyboard selection, stars, and local progress saving.",
       "source": "Grounded in two concrete signals: Nikhil is a father to Viraj, and accepted family builds include kid-reads, letter-explorer, emoji-math, and pattern-grove. This adds a repeat-use spatial construction game rather than another tracker, quiz, or text utility.",
       "status": "success"
+    },
+    {
+      "id": 67,
+      "name": "cron-lane-auditor",
+      "category": "agent-infrastructure",
+      "function_keywords": [
+        "cron schedule audit",
+        "collision detection",
+        "expiry checks",
+        "ownership context",
+        "recurring job definitions"
+      ],
+      "deployed_url": "https://cron-lane-auditor.vercel.app",
+      "repo": "https://github.com/sakibuilds/cron-lane-auditor",
+      "date": "2026-09-16",
+      "what_it_does": "Offline-first cron governance workspace: load recurring job definitions, detect schedule collisions and stale state, flag missing ownership or expiry boundaries, and export a deterministic audit report.",
+      "source": "Grounded in two concrete signals: Hermes runs many recurring cron lanes with enabled, paused, completed, and failed states; and the operating rules explicitly require expiry-aware state overrides and restart-safe follow-through. This is a reusable governance instrument, not a tracker, dashboard, or text transformation tool.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1094,5 +1112,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-14T21:37:21.266Z"
+  "generated_at": "2026-09-15T21:36:56.069Z"
 }
