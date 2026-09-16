@@ -1099,6 +1099,24 @@
       "what_it_does": "Offline-first cron governance workspace: load recurring job definitions, detect schedule collisions and stale state, flag missing ownership or expiry boundaries, and export a deterministic audit report.",
       "source": "Grounded in two concrete signals: Hermes runs many recurring cron lanes with enabled, paused, completed, and failed states; and the operating rules explicitly require expiry-aware state overrides and restart-safe follow-through. This is a reusable governance instrument, not a tracker, dashboard, or text transformation tool.",
       "status": "success"
+    },
+    {
+      "id": 68,
+      "name": "memory-meadow",
+      "category": "family",
+      "function_keywords": [
+        "memory matching game",
+        "pair matching",
+        "child learning",
+        "theme worlds",
+        "repeat play"
+      ],
+      "deployed_url": "https://memory-meadow.vercel.app",
+      "repo": "https://github.com/sakibuilds/memory-meadow",
+      "date": "2026-09-17",
+      "what_it_does": "A gentle repeat-use memory matching game for children with meadow, ocean, and space worlds; selectable pair counts, timer, moves, progress, pause, win celebration, settings, and local best scores.",
+      "source": "Grounded in two concrete signals: Nikhil is a father to Viraj, and accepted family builds include kid-reads, letter-explorer, emoji-math, pattern-grove, and shape-scout. This is a distinct pair-matching game rather than a tracker, quiz, sequence game, or spatial placement puzzle.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1112,5 +1130,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-15T21:36:56.069Z"
+  "generated_at": "2026-09-16T21:38:30.326Z"
 }
