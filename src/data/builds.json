@@ -1136,6 +1136,24 @@
       "source": "Grounded in Nikhil’s recurring Gmail operations: VIP auto-star, stale-star cleanup, junk review/rules, and Gmail API actions; also grounded in repeated automation work where explicit rule precedence and conflict testing prevent silent operational surprises.",
       "status": "success",
       "last_updated": "2026-09-18"
+    },
+    {
+      "id": 70,
+      "name": "sort-safari",
+      "category": "family",
+      "function_keywords": [
+        "categorization game",
+        "sorting baskets",
+        "early learning",
+        "progressive rounds",
+        "child education"
+      ],
+      "deployed_url": "https://sort-safari.vercel.app",
+      "repo": "https://github.com/sakibuilds/sort-safari",
+      "date": "2026-09-20",
+      "what_it_does": "A child-friendly categorization game with three worlds: sort illustrated items into two baskets across 12 progressive rounds, with streak scoring, feedback, celebration, and local best scores.",
+      "source": "Grounded in two concrete signals: Nikhil is a father to Viraj, and accepted family builds include kid-reads, letter-explorer, emoji-math, pattern-grove, shape-scout, and memory-meadow. This is a repeat-use categorization game, distinct from the existing reading, arithmetic, sequence, spatial-placement, and pair-matching games; it is not a tracker or text utility.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1149,5 +1167,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-17T21:37:04.360Z"
+  "generated_at": "2026-09-19T21:38:51.917Z"
 }
