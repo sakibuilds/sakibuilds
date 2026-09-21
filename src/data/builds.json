@@ -1172,6 +1172,24 @@
       "what_it_does": "Browser-only CORS diagnostics workbench: run honest live fetch checks or deterministic demos, inspect origin and preflight clues, classify pass/warn/fail, and export a concise report with actionable fixes.",
       "source": "Grounded in two concrete signals: Nikhil is building multiple AI-native web apps that need browser integration debugging, and he actively uses n8n/webhook/MCP integrations where cross-origin behavior is a recurring boundary. This is distinct from deployment smoke tests and webhook contract testing.",
       "status": "success"
+    },
+    {
+      "id": 72,
+      "name": "story-trail-ten",
+      "category": "family",
+      "function_keywords": [
+        "temporal sequencing",
+        "story ordering",
+        "early learning",
+        "child education",
+        "beginning middle end"
+      ],
+      "deployed_url": "https://story-trail-ten.vercel.app",
+      "repo": "https://github.com/sakibuilds/story-trail-ten",
+      "date": "2026-09-22",
+      "what_it_does": "A child-friendly sequence-learning game: arrange four illustrated moments from eight everyday stories into the order they happened, with gentle feedback, streaks, best score, and local settings.",
+      "source": "Grounded in two concrete signals: Nikhil is a father to Viraj, and accepted family builds include kid-reads, letter-explorer, emoji-math, pattern-grove, shape-scout, memory-meadow, and sort-safari. This is a distinct repeat-use temporal sequencing game: children order the beginning, middle, and end of everyday stories rather than matching, sorting, counting, placing shapes, or tracking activity.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1185,5 +1203,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-20T21:39:02.545Z"
+  "generated_at": "2026-09-21T21:39:19.877Z"
 }
