@@ -1208,6 +1208,25 @@
       "what_it_does": "Offline-first privacy/data-flow review workspace for AI-native apps: map collection, processing, storage, and third-party transfers; flag risky defaults; export Markdown and JSON review artifacts.",
       "source": "Grounded in two concrete signals: Nikhil is building multiple AI-native apps with recurring integration and data-boundary decisions, and the accepted scopewright-tau build shows a repeated need to review autonomous-system boundaries before deployment. This is a distinct privacy/data-flow governance workflow, not a permission, smoke-test, webhook, CORS, tracker, or text transformation tool.",
       "status": "success"
+    },
+    {
+      "id": 74,
+      "name": "kitwise-iota",
+      "category": "personal-operations",
+      "function_keywords": [
+        "trip packing planner",
+        "adaptive checklist",
+        "travel profile",
+        "activity-based packing",
+        "local templates",
+        "readiness summary"
+      ],
+      "deployed_url": "https://kitwise-iota.vercel.app",
+      "repo": "https://github.com/sakibuilds/kitwise-iota",
+      "date": "2026-09-24",
+      "what_it_does": "Offline-first trip packing planner that turns destination, climate, activities, laundry access, and trip length into an editable categorized checklist with quantities, reasons, local templates, readiness, weight estimate, and copy export.",
+      "source": "Grounded in two concrete signals: Nikhil has the personal-operations packpal workflow for trip-specific packing, and his work routinely spans travel for workshops, speaking, and meetings. Kitwise turns that recurring preparation into a reusable checklist engine, distinct from prior event, document, dashboard, governance, and text-utility builds.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1221,5 +1240,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-22T21:38:19.236Z"
+  "generated_at": "2026-09-23T21:45:51.974Z"
 }
