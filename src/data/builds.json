@@ -1227,6 +1227,25 @@
       "what_it_does": "Offline-first trip packing planner that turns destination, climate, activities, laundry access, and trip length into an editable categorized checklist with quantities, reasons, local templates, readiness, weight estimate, and copy export.",
       "source": "Grounded in two concrete signals: Nikhil has the personal-operations packpal workflow for trip-specific packing, and his work routinely spans travel for workshops, speaking, and meetings. Kitwise turns that recurring preparation into a reusable checklist engine, distinct from prior event, document, dashboard, governance, and text-utility builds.",
       "status": "success"
+    },
+    {
+      "id": 75,
+      "name": "eval-grid",
+      "category": "ai-evaluation-operations",
+      "function_keywords": [
+        "model output evaluation",
+        "test suites",
+        "human scoring",
+        "side-by-side comparison",
+        "quality rubric",
+        "benchmark review"
+      ],
+      "deployed_url": "https://eval-grid.vercel.app",
+      "repo": "https://github.com/sakibuilds/eval-grid",
+      "date": "2026-09-25",
+      "what_it_does": "Offline-first AI output evaluation workbench: define reusable test cases and success signals, compare 2–4 model outputs side by side, score correctness, instruction fit, safety, and usefulness, and export the review suite.",
+      "source": "Grounded in two concrete signals: Nikhil is building multiple AI-native apps and using several coding/model providers, creating a recurring need to compare outputs; he is explicitly cost-conscious about tokens and servers, so a repeatable human evaluation loop helps choose quality before scaling usage.",
+      "status": "success"
     }
   ],
   "forbidden_categories": [
@@ -1240,5 +1259,5 @@
     "Kanban",
     "pipeline"
   ],
-  "generated_at": "2026-09-23T21:45:51.974Z"
+  "generated_at": "2026-09-24T21:45:32.577Z"
 }
